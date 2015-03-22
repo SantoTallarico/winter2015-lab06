@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Dream burger!
+-->
+
+<!DOCTYPE order SYSTEM 'bonanza.dtd'>
+
+<order type="takeout">
+    <customer>Santo</customer>
+    <burger>
+        <patty type="beef" />
+        <cheeses top="american" />
+        <topping type="bacon" />
+        <topping type="tomato" />
+        <topping type="lettuce" />
+        <sauce type="ketchup" />
+        <sauce type="peanutbutter" />
+    </burger>
+</order>
